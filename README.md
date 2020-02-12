@@ -9,6 +9,8 @@ and the unit test [BottleCounter.test.js](https://github.com/Illyism/vue-i18n-je
 This allows you to use jest to unit test vue components without having a complicated setup.
 This way you don't have to mock the $t() functions but actually use vue-i18n itself.
 
+I made this to explain my setup for https://github.com/kazupon/vue-i18n/issues/323
+
 ## Project setup
 ```
 npm install
