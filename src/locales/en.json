@@ -1,0 +1,6 @@
+{
+    "locale": "en",
+    "BOTTLES": "Bottles",
+    "BOTTLE_ON_WALL": "No bottles of beer on the wall | A lonely bottle of beer on the wall | {bottleCount} bottles of beer on the wall",
+    "-": "-"
+}
